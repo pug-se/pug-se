@@ -6,7 +6,7 @@ AUTHOR = 'PUG-SE'
 SITENAME = 'Python User Group Sergipe'
 SITEURL = ''
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/Recife'
 
 DEFAULT_LANG = 'pt'
 
