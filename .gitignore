@@ -38,6 +38,7 @@ nosetests.xml
 output
 *.pid
 __pycache__
+.Makefile.swp
 
 # pug-se.github.io
 pug-se.github.io
