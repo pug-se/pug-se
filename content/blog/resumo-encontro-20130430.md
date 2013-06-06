@@ -5,9 +5,12 @@ Slug: resumo-encontro-20130430
 Author: Rodrigo Amaral
 Summary: Resumo do 1º Encontro do Python User Group Sergipe, realizado no dia 30 de abril de 2013, na Universidade Tiradentes, em Aracaju, Sergipe.
 
-![World Plone Day Aracaju](|filename|/images/wpd.png)No último dia 30 de abril, aproveitamos a realização da quarta edição do <a href="http://plone.org/events/wpd/hosts/aracaju-sergipe-brasil">World Plone Day em Aracaju</a> para realizar o primeiro Encontro de Usuários Python de Sergipe. O evento aconteceu na Universidade Tiradentes e contou com a expressiva participação de cerca de 40 pessoas, que aproveitaram a oportunidade para conhecer um pouco mais sobre Plone e Python, além de entrar em contato com outros interessados na plataforma.
 
-Inicialmente, apresentei uma rápida palestra institucional sobre o <a href="https://groups.google.com/forum/#!forum/pug-se">Python User Group de Sergipe (PUG-SE)</a>, explicando a motivação por trás do uso de Python e suas tecnologias, e a importância de ter um grupo de usuários local atuante.
+No último dia 30 de abril, aproveitamos a realização da quarta edição do <a href="http://plone.org/events/wpd/hosts/aracaju-sergipe-brasil">World Plone Day em Aracaju</a> para realizar o primeiro Encontro de Usuários Python de Sergipe. O evento aconteceu na Universidade Tiradentes e contou com a expressiva participação de cerca de 40 pessoas, que aproveitaram a oportunidade para conhecer um pouco mais sobre Plone e Python, além de entrar em contato com outros interessados na plataforma.
+
+![World Plone Day Aracaju](|filename|/images/wpd.png)
+
+Inicialmente, [Rodrigo Amaral](http://rodrigoamaral.net) apresentou uma rápida palestra institucional sobre o <a href="https://groups.google.com/forum/#!forum/pug-se">Python User Group de Sergipe (PUG-SE)</a>, explicando a motivação por trás do uso de Python e suas tecnologias, e a importância de ter um grupo de usuários local atuante.
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/20749952" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> 
 
@@ -22,4 +25,4 @@ Por fim, realizamos um sorteio dos brindes gentilmente cedidos por nossos patroc
 <p style="text-align:center;"><a href="http://treinamentos.mobi"><img class=" wp-image-667 aligncenter" alt="logo-treinamentos.mobi" src="http://ramaral.files.wordpress.com/2013/05/logo-treinamentos-mobi.png?w=300" width="300" height="37" /></a></p>
 <p style="text-align:left;">Em breve teremos mais uma edição do Encontro do PUG-SE! Para ficar por dentro, assine a nossa <a href="https://groups.google.com/forum/#!forum/pug-se">lista de discussão</a>.</p>
 
-[gallery columns="2" ids="671,672,673,674"]
+**Confira algumas [fotos do evento](https://plus.google.com/u/0/events/gallery/cms4i1v423cnndfau0gq0cn45hc).**
