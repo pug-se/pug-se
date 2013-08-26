@@ -29,3 +29,6 @@ DEFAULT_PAGINATION = 10
 
 # Theme config
 THEME = 'theme'
+
+# Google Analytics
+GOOGLE_ANALYTICS = 'UA-43499723-1'
