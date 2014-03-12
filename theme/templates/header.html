@@ -1,20 +1,21 @@
+<header>
 {% if article and article.author %}
-	<header>
-		<h1>{{ article.author }}'s blog</h1>
-		<h3>Postado em {{ article.locale_date }}</h3>
-	</header>
+	<h1>{{ article.author }}'s blog</h1>
+	<h3>Postado em {{ article.locale_date }}</h3>
 {% else %}
-	<header>
-		<h1>{{ AUTHOR }}'s blog</h1>
-		<h3>
-			<script type="text/javascript">
-				var currentDate = new Date();
-				var day = currentDate.getDate();
-				var monthNames = [ "Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez" ];
-				var month = monthNames[currentDate.getMonth()].toUpperCase();
-				var year = currentDate.getFullYear();
-				document.write(month + " " + day + ", " + year);
-			</script>
-		</h3>
-	</header>
+	<h1>{{ AUTHOR }}'s blog</h1>
+	<h3>
+		<script type="text/javascript">
+			var currentDate = new Date();
+			var day = currentDate.getDate();
+			var monthNames = [ "Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez" ];
+			var month = monthNames[currentDate.getMonth()].toUpperCase();
+			var year = currentDate.getFullYear();
+			document.write(month + " " + day + ", " + year);
+		</script>
+	</h3>
 {% endif %}
+	<!-- RuPy Sergipe - temporario -->
+	<a href="http://rupysergipe.github.io/site"><img src="{{ SITEURL }}/theme/images/rupysergipe.png"></a>
+	<!-- RuPy Sergipe - temporario -->
+</header>
