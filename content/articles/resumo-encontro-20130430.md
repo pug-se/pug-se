@@ -21,8 +21,8 @@ A terceira palestra da noite foi sobre o uso do Git para controle de versões, a
 A palestra seguinte foi uma rápida Introdução ao Django, ministrada por <a href="http://twitter.com/matheeusLimaaa">Matheus Lima</a>. O grupo demonstrou muito interesse e participou bastante, tanto que decidimos, de comum acordo, deixar a palestra sobre <a title="Criando plugins para Sublime Text" href="http://rodrigoamaral.net/2012/07/01/criando-plugins-para-sublime-text/">Criação de plugins para Sublime Text</a> que seria apresentada em seguida para o próximo encontro.
 
 Por fim, realizamos um sorteio dos brindes gentilmente cedidos por nossos patrocinadores <a href="http://pycursos.com">PyCursos</a> e <a href="http://treinamentos.mobi">Treinamentos.mobi</a>. Além deles, gostaríamos de agradecer à <a href="http://unit.br">Universidade Tiradentes</a> pela total disponibilidade e apoio ao evento, inclusive incentivando os alunos interessados a participar.
-<p style="text-align:center;"><a href="http://pycursos.com"><img class=" wp-image-666 aligncenter" alt="logo-pycursos" src="http://ramaral.files.wordpress.com/2013/05/logo-pycursos.png?w=300" width="300" height="130" /></a></p>
-<p style="text-align:center;"><a href="http://treinamentos.mobi"><img class=" wp-image-667 aligncenter" alt="logo-treinamentos.mobi" src="http://ramaral.files.wordpress.com/2013/05/logo-treinamentos-mobi.png?w=300" width="300" height="37" /></a></p>
+<p style="text-align:center;"><a href="http://pycursos.com"><img class=" wp-image-666 aligncenter" alt="logo-pycursos" src="/images/logo-pycursos.png" width="300" height="130" /></a></p>
+<p style="text-align:center;"><a href="http://treinamentos.mobi"><img class=" wp-image-667 aligncenter" alt="logo-treinamentos.mobi" src="/images/logo-treinamentos-mobi.png" width="300" height="37" /></a></p>
 <p style="text-align:left;">Em breve teremos mais uma edição do Encontro do PUG-SE! Para ficar por dentro, assine a nossa <a href="https://groups.google.com/forum/#!forum/pug-se">lista de discussão</a>.</p>
 
 **Confira algumas [fotos do evento](https://plus.google.com/u/0/events/gallery/cms4i1v423cnndfau0gq0cn45hc).**
