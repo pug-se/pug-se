@@ -186,10 +186,9 @@ MALT_HOME = [
             {
                 "title": "Chamada de trabalhos",
                 "icon": "fa-puzzle-piece",
-                "text": "Estamos cadastrando palestras e sugestões de atividades para " +\
-                        "os próximos encontros do Grupy-SE. Se você tem algum projeto " +\
-                        "pessoal, profissional ou acadêmico relacionado a Python, " +\
-                        "sinta-se convidado para compartilhar com a nossa comunidade.",
+                "text": "Estamos selecionando palestras e sugestões de atividades para " +\
+                        "os próximos encontros do Grupy-SE. Sinta-se convidado para " +\
+                        "compartilhar com a nossa comunidade.",
                 "buttons": [
                     {
                         "text": "Submeta",
@@ -202,7 +201,52 @@ MALT_HOME = [
     ]
 
 MALT_COMUNITY = [
-
-]
+    {
+        "color": "blue-grey lighten-5",
+        "items": [
+            {
+                "title": "Mídias sociais",
+                "text": "Siga o Grupy-SE nas mídias sociais para ficar por dentro " +\
+                        "dos encontros, novidades e postagens do nosso blog.",
+                "buttons": [
+                    {
+                        "text": "Meetup",
+                        "icon": "fa-meetup",
+                        "href": "https://www.meetup.com/pug-se/",
+                    },
+                    {
+                        "text": "Facebook",
+                        "icon": "fa-facebook",
+                        "href": "http://www.facebook.com/groups/pugse/",
+                    },
+                ],
+            },
+            {
+                "title": "Telegram",
+                "text": "Possuimos também um grupo no Telegram. " +\
+                        "Para participar é só clicar no link abaixo.",
+                "buttons": [
+                    {
+                        "text": "Telegram",
+                        "icon": "fa-paper-plane",
+                        "href": "https://t.me/pugse",
+                    },
+                ],
+            },
+            {
+                "title": "Lista de emails",
+                "text": "Para quem curte o bom e velho email, temos a lista " +\
+                        "de discussão oficial do Grupy-SE no google groups.",
+                "buttons": [
+                    {
+                        "text": "Lista",
+                        "icon": "fa-envelope",
+                        "href": "https://groups.google.com/forum/#!forum/pug-se",
+                    },
+                ],
+            },
+        ]
+    },
+    ]
 
 from themes.malt.functions import *
