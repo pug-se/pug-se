@@ -72,7 +72,7 @@ NAVBAR_BLOG_LINKS = NAVBAR_HOME_LINKS + [
 # Links sociais do rodapé
 SOCIAL_LINKS = (
     {
-        "href": "https://t.me/pugse",
+        "href": "https://telegram.me/joinchat/Acry5z79kyPZDqK4Bgu9FQ",
         "icon": "fa-paper-plane",
         "text": "Telegram",
     },
@@ -229,7 +229,7 @@ MALT_COMUNITY = [
                     {
                         "text": "Telegram",
                         "icon": "fa-paper-plane",
-                        "href": "https://t.me/pugse",
+                        "href": "https://telegram.me/joinchat/Acry5z79kyPZDqK4Bgu9FQ",
                     },
                 ],
             },
