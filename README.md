@@ -48,7 +48,7 @@ O Pelican vem com um pequeno servidor de desenvolvimento para facilitar a atuali
 
     (pug-se)$ make html serve
 
-Neste ponto, a geração dos arquivos estáticos do site foi realizada (ver conteúdo do diretório pug-se.github.io) e o servidor deve estar rodando em background, aceitando requisições em [http://localhost:5100](http://localhost:5100).
+Neste ponto, a geração dos arquivos estáticos do site foi realizada (ver conteúdo do diretório pug-se.github.io) e o servidor deve estar rodando em background, aceitando requisições em [http://localhost:8000](http://localhost:8000).
 
 ### Criando e modificando conteúdo
 
