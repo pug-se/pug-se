@@ -1,0 +1,3 @@
+[submodule "themes/malt"]
+	path = themes/malt
+	url = https://github.com/pug-se/malt
