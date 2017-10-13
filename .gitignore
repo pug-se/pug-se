@@ -42,3 +42,6 @@ __pycache__
 
 # pug-se.github.io
 pug-se.github.io
+
+# VSCode
+.vscode
