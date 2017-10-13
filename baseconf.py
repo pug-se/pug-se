@@ -6,7 +6,7 @@ from __future__ import unicode_literals
 SITEURL = ''
 DEFAULT_LANG = u'pt'
 DEFAULT_PAGINATION = False
-TIMEZONE = 'America/Sao_Paulo'
+TIMEZONE = 'America/Maceio'
 SUMMARY_MAX_LENGTH = 35
 
 ### URL and Page generation settings
@@ -55,6 +55,10 @@ PLUGINS = [
         'sitemap',
         'welcome-helpers',
         ]
+
+# Static content
+STATIC_PATHS = ['images', 'extra/CNAME']
+EXTRA_PATH_METADATA = {'extra/CNAME': {'path': 'CNAME'},}
 
 # Plugins settings
 RESPONSIVE_IMAGES = True
